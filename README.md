@@ -4,7 +4,6 @@
 > Source of truth lives in the blog monorepo (`apps/examples/`); do not send PRs here.
 > Paths in articles map to this repo root — e.g. `apps/examples/mini-hooks/mini-hooks.js` → [`mini-hooks/mini-hooks.js`](mini-hooks/mini-hooks.js).
 
-
 Runnable versions of the code that appears in the blog posts. A snippet lives here when it needs a real server, a real dependency, or a real HTTP response — i.e. when it cannot be verified by pasting it into the theme's Run button.
 
 The point is that no output in a post is invented: run the example, copy the actual output into the article.
